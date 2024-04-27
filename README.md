@@ -53,7 +53,7 @@
 
 ## About The Project
 
- <img src="images/login.png" alt="Logo">
+ <img src="images/login.PNG" alt="Logo">
 
 The Book of Ps (i.e. Recipes) is a collaborative hypertext framework-based recipe repository. The site supports user login, authentication, and persistent user data storage via MongoDB. Users use our hypertext nodes to store recipes, create links to other nodes, and share their nodes with others (a la style of Google Docs). The key feature of the Book of Ps is the persistence of links between text, images, and nodes themselves across the whole system and user space. The website is deployed via Vercel and built with React, Typescript, and MongoDB.
 
